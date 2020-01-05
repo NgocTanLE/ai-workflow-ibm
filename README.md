@@ -1,4 +1,4 @@
-# Business Problem [ai-workflow-ibm]
+# Business Problem [ibm-ai-workflow]
 
 # **Classifying movie reviews: a binary classification example**
 Two-class classification, or binary classification, may be the most widely applied kind of machine-learning problem. In this example, you’ll learn to classify movie reviews as positive or negative, based on the text content of the reviews.
@@ -30,22 +30,25 @@ Traditional Techniques: Logistic Regression, Multilayer Perceptron <br/>
 
 In this section, we use unittest to verify the accuracy and confusion matrix of method "Logistic Regression".
 
-# Deep Neural Network: Convolutional Neural Network
+# Deep Neural Network: 
+
+* Recurrent Neural Network: LSTM or GRU
+* Convolutional Neural Network
 
 
 # Conclusion
 In this project, as you see, we did:
 
-How to explore extensions to a baseline model to improve training and predicting capacity.
+* How to explore extensions to a baseline model to improve training and predicting capacity.
 
-How to use unit tests for the API and the model
+* How to use unit tests for the API and the model
 
-How to use unit tests for logging
+* How to use unit tests for logging
 
-Can all of the unit tests be run with a single script and do all of the unit tests pass?
+* Can all of the unit tests be run with a single script and do all of the unit tests pass?
 
-How to monitor performance
+* How to monitor performance
 
-How to compare multiple models
+* How to compare multiple models
 
-How to use visualizations for the EDA investigation
+* How to use visualizations for the EDA investigation
