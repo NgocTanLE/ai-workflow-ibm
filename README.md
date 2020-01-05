@@ -1,13 +1,12 @@
-# ai-workflow-ibm
+# Business Problem [ai-workflow-ibm]
 
-# Business Problem
 # **Classifying movie reviews: a binary classification example**
 Two-class classification, or binary classification, may be the most widely applied kind of machine-learning problem. In this example, you’ll learn to classify movie reviews as positive or negative, based on the text content of the reviews.
 
 
 **References**
 
-[1] The IDMB database : ref
+[1] The IDMB raw dataset : http://mng.bz/0tIo 
 
 [2] https://github.com/pytorch/examples/blob/master/mnist/main.py
 
