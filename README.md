@@ -32,8 +32,7 @@ In this section, we use unittest to verify the accuracy and confusion matrix of 
 
 # Deep Neural Network: 
 
-* Recurrent Neural Network: LSTM or GRU
-* Convolutional Neural Network
+* Recurrent Neural Network: LSTM 
 
 
 # Conclusion
